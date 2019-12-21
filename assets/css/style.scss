@@ -1,0 +1,10 @@
+---
+---
+
+@import "";
+
+a{
+	&:hover &:focus{
+		font-weight: normal;
+	}
+}
