@@ -5,13 +5,96 @@
 La llena, desborda con rabia y vuelve a calmarse.
 Deseos que no se cumplirán
 Metas no alcanzadas
-Todo llena mi cabeza de incertidumbre.
+Todo llena mi cabeza de incertidumbre
+
+> Empezamos con la primer linea, la cual continua con el titulo
+> Introduccion, resumen
+
+Crece, se agita, y crece una vez más
+siempre, siempre, siempre
+Dolor de otoño en primavera
+que no parece abandonar mi alma
+
+> Orden de la introduccion, descendente, futuro a pasado
+> Igual la primer linea continua su presedencia
+
+Grandes, inalcanzables *e insuperables*
+la futilidad del esfuerzo
+la recompensa de la pereza
+traicionan mis pensamientos
+
+> alma y deseos
+
+Caóticos, frenéticos, lunáticos erráticos
+dejan amargura en mi telar
+Carencia de respuestas, inútiles
+frente al tiempo mis esfuerzos
+
+Mediocres, consentidos sin lugar
+el abismo me traga, se expande y me llama
+acogedor, honesto, no me desagrada
+me llama, y me quedo.
+
+No puedo salir.
+
+---
+
+```md
+*La melancolía colma mi alma.*
+
+La llena, desborda con rabia y vuelve a calmarse.
+Deseos que no se cumplirán
+Metas no alcanzadas
+Todo llena mi cabeza de incertidumbre
+
+Crece, se agita, y crece una vez más
+siempre, siempre, siempre
+Dolor de otoño en primavera
+que no parece abandonar mi alma
+
+Grandes, inalcanzables *e insuperables*
+la futilidad del esfuerzo
+la recompensa de la pereza
+traicionan mis pensamientos
+
+Caóticos, frenéticos, lunáticos erráticos
+dejan amargura en mi telar
+Carencia de respuestas, inútiles
+frente al tiempo mis esfuerzos
+
+Mediocres, consentidos sin lugar
+el abismo me traga, se expande y me llama
+acogedor, honesto, no me desagrada
+Me llama, y me quedo.
+
+No puedo salir.
+
+- Theo
+```
+
+---
+
+
+El sentido desaparece
+se ha esfumado por completo
+no hay razones para continuar
+ni caminos que seguir.
+
+
+
 
 Un amanecer frío, doloroso y $%/&$$%%&$ *solitario*
 que dejó una llaga profunda
-Una *levantamiento* mediocre
+Una mediana desesperante
+Un avanzar mediocre
 
 Un comienzo sobrio, sin propósito
+
+
+
+
+
+---
 
 Desconocido, doloroso, incierto es mi futuro
 Vueltas de la luna
@@ -33,6 +116,7 @@ y sudor en las manos
 [Otra vida](https://www.youtube.com/watch?v=c56L25d49-A&feature=youtu.be)
 
 
+---
 
 *Espacio.*
 
