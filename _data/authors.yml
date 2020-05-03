@@ -1,0 +1,11 @@
+# Sample Authors
+# Remove file or replace with your own
+
+Teo Gonzalez Calzada:
+  name: Teo Gonzalez Calzada
+  picture: /images/bio-photo-2.jpg
+  twitter: "@thblckjkr"
+  links:
+    - title: Twitter
+      url: https://twitter.com/thblckjkr
+      icon: fab fa-twitter-square
