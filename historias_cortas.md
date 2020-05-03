@@ -42,6 +42,8 @@ No puedo salir.
 
 ---
 
+Versión corregida
+
 *La melancolía colma mi alma.*
 
 La llena, desborda con rabia y vuelve a calmarse.
@@ -75,6 +77,7 @@ No puedo salir.
 
 ---
 
+Posible canción
 
 El sentido desaparece
 se ha esfumado por completo
