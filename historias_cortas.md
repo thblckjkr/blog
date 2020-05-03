@@ -35,11 +35,13 @@ el abismo me traga, se expande y me llama
 acogedor, honesto, no me desagrada
 me llama, y me quedo.
 
+Incertidumbre dolorosa, futuro traicionero
+no puedo mas.
+
 No puedo salir.
 
 ---
 
-```md
 *La melancolía colma mi alma.*
 
 La llena, desborda con rabia y vuelve a calmarse.
@@ -52,13 +54,13 @@ siempre, siempre, siempre
 Dolor de otoño en primavera
 que no parece abandonar mi alma
 
-Grandes, inalcanzables *e insuperables*
-la futilidad del esfuerzo
+Grandes, inalcanzables e ideales
+La futilidad del esfuerzo
 la recompensa de la pereza
 traicionan mis pensamientos
 
 Caóticos, frenéticos, lunáticos erráticos
-dejan amargura en mi telar
+dejan amargura en mi paladar
 Carencia de respuestas, inútiles
 frente al tiempo mis esfuerzos
 
@@ -69,8 +71,7 @@ Me llama, y me quedo.
 
 No puedo salir.
 
-- Theo
-```
+- TeoGC
 
 ---
 
